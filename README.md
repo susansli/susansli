@@ -1,6 +1,6 @@
 ## Hi! I'm Suz ✨
-I'm am experienced software developer and product designer from Vancouver, BC. So nice to e-meet you!
+I'm am experienced software developer from Vancouver, BC. So nice to e-meet you!
 
-I'm currently in school to complete my BSc. in Computer Science, with plans to obtain a MSc. in the future!
+In addition to my software engineering experience, I've worked for multiple years as a UX/UI designer. My approach to dev is as much design oriented as it is engineering oriented — the holistic perspective is what makes me love this work!
 
-In addition to being a dev, I dabble in digital illustration and balcony gardening. Ask me for pictures of my kale plants 🌿
+Outside of tech, I am a digital illustrator and an avid reader. However, my biggest passion is for community building and social work. I run a mutual aid organization that operates in Vancouver's DTES and mentor youth with Big Sisters BC, and participate in other grassroots initiatives to make our world a better place for all!
